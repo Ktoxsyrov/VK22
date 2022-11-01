@@ -11,6 +11,7 @@
         <entry key="..\:/TP/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="..\:/TP/app/src/main/res/layout/fragment_grid.xml" value="0.22" />
         <entry key="..\:/TP/app/src/main/res/layout/grid_item.xml" value="0.8333333333333334" />
+        <entry key="..\:/VK22/HT1/app/src/main/res/layout/activity_main.xml" value="0.17552083333333332" />
         <entry key="..\:/VK22/TP/app/src/main/res/drawable/item_shape_blue.xml" value="0.1625" />
         <entry key="..\:/VK22/TP/app/src/main/res/drawable/item_shape_red.xml" value="0.3635" />
         <entry key="..\:/VK22/TP/app/src/main/res/layout/activity_main.xml" value="0.16666666666666666" />
@@ -21,7 +22,7 @@
     </option>
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
-    <output url="file://$PROJECT_DIR$/../HT1/build/classes" />
+    <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
   <component name="ProjectType">
     <option name="id" value="Android" />

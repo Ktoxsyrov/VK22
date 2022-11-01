@@ -18,26 +18,18 @@ class ItemsViewModel(val state: SavedStateHandle): ViewModel() {
         get() = _count
 
     init {
-        println("init")
         _count = state.getLiveData(KEY)
-        println("_count.value = "+_count.value.toString())
-        println("state[KEY] = "+state[KEY])
         _count.value = state[KEY]
         if(_count.value == null)
-            _count.value = 3
-        println(state.keys().toString())
-        println("_count.value = "+_count.value.toString())
+            _count.value = 0
     }
 
     fun addItem(){
         _count.value = _count.value!!.inc()
-        println("_count.value = "+_count.value.toString())
 
     }
     fun saveList(){
         state[KEY] = _count.value
-        println("сохранено " + _count.value)
-        println("state[KEY] = "+state[KEY])
     }
 
 }

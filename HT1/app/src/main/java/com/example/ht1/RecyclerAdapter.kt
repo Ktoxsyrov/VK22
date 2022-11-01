@@ -7,13 +7,10 @@ import com.example.ht1.databinding.RecyclerItemBinding
 
 class RecyclerAdapter(): RecyclerView.Adapter<RecyclerAdapter.MyViewHolder>() {
 
-    private var itemsCount = 10
+    private var itemsCount = 0
 
     fun setCount(data: Int){
         itemsCount = data
-
-        println("Задано значение " + data.toString() )
-        //notifyItemChanged(0)
     }
 
     fun getCount(): Int{

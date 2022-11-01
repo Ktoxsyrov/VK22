@@ -5,8 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="36bcec16-cd23-4ffd-9167-507c9a7b187c" name="Changes" comment="HT1">
-      <change beforePath="$PROJECT_DIR$/HT1" beforeDir="false" afterPath="$PROJECT_DIR$/HT1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HT1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HT1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HT1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HT1/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HT1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HT1/app/src/main/AndroidManifest.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,7 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HT1" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
