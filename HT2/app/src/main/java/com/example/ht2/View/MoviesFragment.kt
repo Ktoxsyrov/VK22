@@ -51,10 +51,10 @@ class MoviesFragment : Fragment() {
 
         binding.retryIcon.setOnClickListener {
             viewModel.error.postValue("Trying") //?
+            println(viewModel.error.value)
             binding.retryIcon.visibility = View.GONE
             binding.progressCircular.visibility = View.VISIBLE
             viewModel.getAllMovies()
-
         }
 
         viewModel.movieList.observe(viewLifecycleOwner) {

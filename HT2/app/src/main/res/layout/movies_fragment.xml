@@ -15,6 +15,13 @@
         app:layout_constraintEnd_toEndOf="parent"
         />
 
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/moviesRecycler"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:listitem="@layout/movie_item" />
+
     <ImageView
         android:id="@+id/retry_icon"
         android:visibility="gone"
@@ -22,11 +29,5 @@
         android:layout_height="match_parent"
         android:src="@drawable/ic_baseline_arrow_circle_down_24"
         app:tint="@color/cardview_dark_background" />
-
-    <androidx.recyclerview.widget.RecyclerView
-        android:id="@+id/moviesRecycler"
-        android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        tools:listitem="@layout/movie_item" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
