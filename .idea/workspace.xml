@@ -4,17 +4,19 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="36bcec16-cd23-4ffd-9167-507c9a7b187c" name="Changes" comment="HT1">
+    <list default="true" id="36bcec16-cd23-4ffd-9167-507c9a7b187c" name="Changes" comment="HT1 res">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HT1/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HT1/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HT1/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HT1/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HT1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HT1/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HT1/app/src/main/java/com/example/ht1/RecyclerFragment.kt" beforeDir="false" afterPath="$PROJECT_DIR$/HT1/app/src/main/java/com/example/ht1/RecyclerFragment.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HT1/app/src/main/res/layout/fragment_recycler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HT1/app/src/main/res/layout/fragment_recycler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HT1/app/src/main/res/values/strings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HT1/app/src/main/res/values/strings.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[4ad93e94]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[D:\Emulators\.android\avd\Pixel_4_API_30_2.avd]" />
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -39,7 +41,7 @@
     <property name="RunOnceActivity.cidr.known.project.marker" value="true" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="cidr.known.project.marker" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/HT1" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/HT2" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -145,7 +147,14 @@
       <option name="project" value="LOCAL" />
       <updated>1666869502706</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="HT1 res">
+      <created>1667301098602</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1667301098606</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -168,6 +177,7 @@
     </ignored-roots>
     <MESSAGE value="state" />
     <MESSAGE value="HT1" />
-    <option name="LAST_COMMIT_MESSAGE" value="HT1" />
+    <MESSAGE value="HT1 res" />
+    <option name="LAST_COMMIT_MESSAGE" value="HT1 res" />
   </component>
 </project>
